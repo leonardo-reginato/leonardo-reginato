@@ -1,4 +1,11 @@
-Hi 👋 My name is Leonardo reginato ==================================  Data Scientist & Machine Learning Engineer ------------------------------------------  * 🌍  I'm based in Texas * ✉️  You can contact me at [leonardofonseca.r@gmail.com](mailto:leonardofonseca.r@gmail.com) * 🧠  I'm learning Tensorflow, PyTorch and LLMs * 🤝  I'm open to collaborating on Deep Learning, LLMs, Machine Learning
+Hi 👋 My name is Leonardo reginato 
+==================================  
+Data Scientist & Machine Learning Engineer 
+------------------------------------------  
+* 🌍  I'm based in Texas
+* ✉️  You can contact me at [leonardofonseca.r@gmail.com](mailto:leonardofonseca.r@gmail.com)
+* 🧠  I'm learning Tensorflow, PyTorch and LLMs
+* 🤝  I'm open to collaborating on Deep Learning, LLMs, Machine Learning
 
 <a href="https://www.github.com/leonardo-reginato" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/leonardo-reginato?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
