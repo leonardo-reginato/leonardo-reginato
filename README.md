@@ -1,4 +1,4 @@
-Hi 👋 My name is Leonardo reginato 
+Hi 👋 My name is Leonardo Reginato 
 ==================================  
 Data Scientist & Machine Learning Engineer 
 ------------------------------------------  
