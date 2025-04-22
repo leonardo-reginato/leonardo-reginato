@@ -34,5 +34,6 @@ AWS, Google Cloud, Hive, Git, Flask
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-reginato/)
+[![Webpage](https://cdn.iconscout.com/icon/premium/png-256-thumb/personal-website-4552318-3767467.png?f=webp&w=256)](https://sites.google.com/view/leonardoreginato/home)
 
 ---
