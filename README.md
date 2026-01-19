@@ -1,39 +1,56 @@
-### Hey there! 👋 I'm Leonardo Reginato
+# 👋 Hi, I'm Leonardo Reginato
 
-🚀 **Data Scientist & ML Engineer** | 🌎 Texas-based | Currently a **UT Austin Research Tech** working with Computer Vision 📷
-✨ Passionate about making data useful through ML, AI, and NLP. Exploring the frontiers of Deep Learning, NLP, and LLMs to solve real-world problems.
+**PhD Student — Petroleum & Geosystems Engineering (UT Austin 🤘)**  
+Petroleum Engineer | Data Science & Machine Learning  
+Based in Austin, TX
 
----
+I work at the intersection of **reservoir engineering, geoscience, and AI**, building data-driven and physics-aware approaches to understand and simulate subsurface systems.
 
-### 🌟 A Bit About Me
-
-- 📧 Reach me at [leonardofonseca.r@gmail.com](mailto:leonardofonseca.r@gmail.com)
-- 📚 Currently diving deeper into: Large Language Models and Object Detection
-- 🤝 Always open to collaborating on AI projects!
+My background combines traditional petroleum engineering with modern machine learning, focusing on practical, research-grade solutions.
 
 ---
 
-### 🛠️ Skills
+## 🔬 Research Interests
 
-**Languages & Frameworks**  
-Python, R, PyTorch, TensorFlow, Docker, SQL
-
-**Tools & Platforms**  
-AWS, Google Cloud, Hive, Git, Flask
-
----
-
-### 📂 Featured Projects
-
-- [Image Classifier with CNNs](https://github.com/leonardo-reginato/project-1) - High-accuracy image classification with PyTorch
-- [Text Summarization with Transformers](https://github.com/leonardo-reginato/project-2) - Summarization using Hugging Face Transformers
-- [Time Series Forecasting with RNNs](https://github.com/leonardo-reginato/project-3) - Predicting stock trends with LSTMs
+- Reservoir characterization & modeling  
+- Data-driven reservoir simulation  
+- Surrogate modeling for flow prediction  
+- Machine learning for subsurface systems  
+- Uncertainty quantification  
+- Scientific ML & hybrid physics/AI workflows  
 
 ---
 
-### 🔗 Connect
+## 🧠 Technical Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-reginato/)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=VUJlvAkAAAAJ&hl=pt-BR)
+**Languages**  
+Python · R · SQL  
+
+**ML / Scientific Computing**  
+PyTorch · TensorFlow · Scikit-Learn · NumPy · Pandas  
+
+**Reservoir & Geo Tools**  
+ECLIPSE · CMG · Petrel · Geological modeling workflows  
+
+**Dev & Reproducibility**  
+Git · Docker · Conda · HPC workflows  
 
 ---
+
+## 📫 Contact & Profiles
+
+📧 leonardofonseca.r@gmail.com  
+
+[LinkedIn](https://www.linkedin.com/in/leonardo-reginato/)  
+[Google Scholar](https://scholar.google.com/citations?user=VUJlvAkAAAAJ&hl=en)
+
+---
+
+## 🤝 Open to Collaborations
+
+I’m interested in collaborations involving:
+
+- AI for energy & subsurface
+- Scientific machine learning
+- Reservoir simulation acceleration
+- Interdisciplinary research connecting physics + ML
