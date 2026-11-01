@@ -1,56 +1,63 @@
-# 👋 Hi, I'm Leonardo Reginato
+# 👋 Hey, I'm Leonardo (Leo) Reginato
 
-**PhD Student — Petroleum & Geosystems Engineering (UT Austin 🤘)**  
-Petroleum Engineer | Data Science & Machine Learning  
-Based in Austin, TX
+**PhD Student · Petroleum & Geosystems Engineering @ UT Austin 🤘**
+Petroleum engineer turned ML engineer turned researcher, based in Austin, TX 🌵
 
-I work at the intersection of **reservoir engineering, geoscience, and AI**, building data-driven and physics-aware approaches to understand and simulate subsurface systems.
+I build **physics-aware machine learning for the subsurface**: surrogate models, history matching, and workflows that make reservoir simulation faster and more honest about uncertainty. Before the PhD I spent 3+ years as a machine learning engineer, so I care a lot about code that actually runs outside my laptop.
 
-My background combines traditional petroleum engineering with modern machine learning, focusing on practical, research-grade solutions.
+🌐 **Website:** [leonardo-reginato.github.io](https://leonardo-reginato.github.io)
 
 ---
+
+## 🚧 What I'm working on right now
+
+- 🛢️ **History matching on the Brugge benchmark** with ECLIPSE, ML surrogates, and generative models
+- 🌊 **4D seismic data assimilation**: petro-elastic forward modeling to bring time-lapse seismic into the history-matching loop
+- 🪨 **Facies prediction** from well logs and subsurface models with gradient-boosted classifiers
+- ⚡ **Neural operator surrogates** (FNO, U-FNO, DeepONet) to speed up flow simulation
 
 ## 🔬 Research Interests
 
-- Reservoir characterization & modeling  
-- Data-driven reservoir simulation  
-- Surrogate modeling for flow prediction  
-- Machine learning for subsurface systems  
-- Uncertainty quantification  
-- Scientific ML & hybrid physics/AI workflows  
+- Reservoir characterization & data-driven simulation
+- Surrogate modeling & scientific ML
+- Uncertainty quantification & Bayesian inversion
+- Generative models (score-based / diffusion) for subsurface problems
+- Computer vision for science 🐠 (yes, fish too, see below)
 
 ---
 
-## 🧠 Technical Stack
+## 📌 Featured Projects
 
-**Languages**  
-Python · R · SQL  
+| Project | What it is |
+|---|---|
+| [**ecl-tools**](https://github.com/leonardo-reginato/ecl-tools) | My reservoir-simulation & history-matching pipeline: ECLIPSE grid writing, parallel runs, output collection, ML surrogates |
+| [**cryptovision**](https://github.com/leonardo-reginato/cryptovision) | Deep learning for identifying cryptic coral reef fishes 🐟 |
+| [**cnn-vs-resnet**](https://github.com/leonardo-reginato/cnn-vs-resnet) | Comparing classic CNNs and ResNets on image classification |
+| [**PyRes**](https://github.com/LASG-USP/PyRes) | Reservoir engineering toolkit from my master's lab at USP |
 
-**ML / Scientific Computing**  
-PyTorch · TensorFlow · Scikit-Learn · NumPy · Pandas  
+## 📄 Recent Publication
 
-**Reservoir & Geo Tools**  
-ECLIPSE · CMG · Petrel · Geological modeling workflows  
-
-**Dev & Reproducibility**  
-Git · Docker · Conda · HPC workflows  
-
----
-
-## 📫 Contact & Profiles
-
-📧 leonardofonseca.r@gmail.com  
-
-[LinkedIn](https://www.linkedin.com/in/leonardo-reginato/)  
-[Google Scholar](https://scholar.google.com/citations?user=VUJlvAkAAAAJ&hl=en)
+- 🐠 **Deep learning for cryptic coral reef fish identification** · *PLOS ONE* (with S. J. Brandl et al.)
 
 ---
 
-## 🤝 Open to Collaborations
+## 🧠 Tech Stack
 
-I’m interested in collaborations involving:
+**Languages:** Python · R · SQL · Julia (learning 👀)
+**ML / Scientific Computing:** PyTorch · TensorFlow · scikit-learn · XGBoost · NumPy · Pandas
+**Reservoir & Geo:** ECLIPSE · CMG · Petrel · geological modeling workflows
+**Dev & Reproducibility:** Git · Docker · Conda · HPC
 
-- AI for energy & subsurface
-- Scientific machine learning
-- Reservoir simulation acceleration
-- Interdisciplinary research connecting physics + ML
+---
+
+## 🤝 Let's connect
+
+I'm open to **research collaborations** and **internships** in:
+
+- 🌍 AI for energy & the subsurface
+- 🧪 Scientific machine learning
+- ⚡ Reservoir simulation acceleration
+- 🔀 Anything where physics and ML need to talk to each other
+
+📧 leonardo.reginato@austin.utexas.edu
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-reginato/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=VUJlvAkAAAAJ&hl=en) · 🌐 [Website](https://leonardo-reginato.github.io)
