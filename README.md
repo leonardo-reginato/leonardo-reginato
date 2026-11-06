@@ -5,8 +5,6 @@ Petroleum engineer turned ML engineer turned researcher, based in Austin, TX �
 
 I build **physics-aware machine learning for the subsurface**: surrogate models, history matching, and workflows that make reservoir simulation faster and more honest about uncertainty. Before the PhD I spent 3+ years as a machine learning engineer, so I care a lot about code that actually runs outside my laptop.
 
-🌐 **Website:** [leonardo-reginato.github.io](https://leonardo-reginato.github.io)
-
 ---
 
 ## 🚧 What I'm working on right now
